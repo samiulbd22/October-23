@@ -6,20 +6,20 @@ const members = {
     runningMonth    :"October-23",
     previousMonth   :"September-23", // new add
     upComingMonth   :"November 1,2023",
-    runningMealRate :86,
+    runningMealRate :79,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
         pre_previous_payable:2959,
         previous_paid       :5000,
         previous_dining_cost:1798,
-        payment             :undefined,
+        payment             :{"04/10/23-Cash":4700},
         // running month
         stay_cost       :2200,
         garage_cost     :50,
-        running_payable :0,
-        running_paid    :0,
-        running_meal    :4,
+        running_payable :2677,
+        running_paid    :4700,
+        running_meal    :5,
         // method calling
         previousAddedDining,
         previousDue,
@@ -45,7 +45,7 @@ const members = {
         garage_cost     :200,
         running_payable :0,
         running_paid    :0,
-        running_meal    :4,
+        running_meal    :5,
         // method calling
         previousAddedDining,
         previousDue,
@@ -72,7 +72,7 @@ const members = {
         garage_cost     :580,
         running_payable :0,
         running_paid    :0,
-        running_meal    :7,
+        running_meal    :9,
         // method calling
         previousAddedDining,
         previousDue,
@@ -99,7 +99,7 @@ const members = {
         garage_cost     :50,
         running_payable :0,
         running_paid    :0,
-        running_meal    :4,
+        running_meal    :5,
         // method calling
         previousAddedDining,
         previousDue,
@@ -125,7 +125,7 @@ const members = {
         garage_cost     :50,
         running_payable :0,
         running_paid    :0,
-        running_meal    :3,
+        running_meal    :5,
         // method calling
         previousAddedDining,
         previousDue,
@@ -152,7 +152,7 @@ const members = {
         garage_cost     :100,
         running_payable :0,
         running_paid    :0,
-        running_meal    :3,
+        running_meal    :4,
         // method calling
         previousAddedDining,
         previousDue,
