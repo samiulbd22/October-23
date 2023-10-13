@@ -6,7 +6,7 @@ const members = {
     runningMonth    :"October-23",
     previousMonth   :"September-23", // new add
     upComingMonth   :"November 1,2023",
-    runningMealRate :70,
+    runningMealRate :66,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -19,7 +19,7 @@ const members = {
         garage_cost     :50,
         running_payable :2677,
         running_paid    :4700,
-        running_meal    :13,
+        running_meal    :14,
         // method calling
         previousAddedDining,
         previousDue,
@@ -43,9 +43,9 @@ const members = {
         // running month
         stay_cost       :2000,
         garage_cost     :200,
-        running_payable :0,
-        running_paid    :0,
-        running_meal    :12,
+        running_payable :2717,
+        running_paid    :2000,
+        running_meal    :13,
         // method calling
         previousAddedDining,
         previousDue,
@@ -101,7 +101,7 @@ const members = {
         garage_cost     :50,
         running_payable :5060,
         running_paid    :7500,
-        running_meal    :13,
+        running_meal    :14,
         // method calling
         previousAddedDining,
         previousDue,
@@ -121,13 +121,15 @@ const members = {
         pre_previous_payable:3870,
         previous_paid       :6000,
         previous_dining_cost:3248,
-        payment             :undefined,
+        payment             :{"28/09/23-Cash":500,
+                               "13/10/23-Cash":6000                           
+                             },
         // running month
         stay_cost       :2330,
         garage_cost     :50,
-        running_payable :0,
-        running_paid    :0,
-        running_meal    :19,
+        running_payable :4168,
+        running_paid    :6500,
+        running_meal    :21,
         // method calling
         previousAddedDining,
         previousDue,
@@ -154,7 +156,7 @@ const members = {
         garage_cost     :100,
         running_payable :2904,
         running_paid    :5000,
-        running_meal    :13,
+        running_meal    :15,
         // method calling
         previousAddedDining,
         previousDue,
@@ -178,9 +180,9 @@ const members = {
         // running month
         stay_cost       :3000,
         garage_cost     :0,
-        running_payable :0,
-        running_paid    :0,
-        running_meal    :0,
+        running_payable :5932,
+        running_paid    :3000,
+        running_meal    :3,
         // method calling
         previousAddedDining,
         previousDue,
