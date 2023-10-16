@@ -39,7 +39,7 @@ const members = {
         pre_previous_payable:2497,
         previous_paid       :4100,
         previous_dining_cost:1450,
-        payment             :{"10/10/23-DBBL":2000
+        payment             :{"10/10/23-DBBL":2000,
                               "16/10/2Cash":800
                              },
         // running month
@@ -178,7 +178,7 @@ const members = {
         pre_previous_payable:2030,
         previous_paid       :2000,
         previous_dining_cost:2262,
-        payment             :{"11/10/23-Bkash":3000
+        payment             :{"11/10/23-Bkash":3000,
                               "16/10/23-Cash":3000
                              },
         // running month
