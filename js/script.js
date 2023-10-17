@@ -6,7 +6,7 @@ const members = {
     runningMonth    :"October-23",
     previousMonth   :"September-23", // new add
     upComingMonth   :"November 1,2023",
-    runningMealRate :64,
+    runningMealRate :62,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -19,7 +19,7 @@ const members = {
         garage_cost     :50,
         running_payable :2677,
         running_paid    :4700,
-        running_meal    :18,
+        running_meal    :19,
         // method calling
         previousAddedDining,
         previousDue,
@@ -47,7 +47,7 @@ const members = {
         garage_cost     :200,
         running_payable :2717,
         running_paid    :2800,
-        running_meal    :15,
+        running_meal    :16,
         // method calling
         previousAddedDining,
         previousDue,
@@ -76,7 +76,7 @@ const members = {
         garage_cost     :580,
         running_payable :3340,
         running_paid    :4000,
-        running_meal    :20,
+        running_meal    :23,
         // method calling
         previousAddedDining,
         previousDue,
@@ -103,7 +103,7 @@ const members = {
         garage_cost     :50,
         running_payable :5060,
         running_paid    :7500,
-        running_meal    :18,
+        running_meal    :19,
         // method calling
         previousAddedDining,
         previousDue,
@@ -131,7 +131,7 @@ const members = {
         garage_cost     :50,
         running_payable :4168,
         running_paid    :6500,
-        running_meal    :26,
+        running_meal    :28,
         // method calling
         previousAddedDining,
         previousDue,
@@ -158,7 +158,7 @@ const members = {
         garage_cost     :100,
         running_payable :2904,
         running_paid    :5000,
-        running_meal    :19,
+        running_meal    :20,
         // method calling
         previousAddedDining,
         previousDue,
@@ -186,7 +186,7 @@ const members = {
         garage_cost     :0,
         running_payable :5932,
         running_paid    :6000,
-        running_meal    :9,
+        running_meal    :11,
         // method calling
         previousAddedDining,
         previousDue,
